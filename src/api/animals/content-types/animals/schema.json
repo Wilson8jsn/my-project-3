@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "animals_1",
+  "info": {
+    "singularName": "animals",
+    "pluralName": "animals-1",
+    "displayName": "Animals"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Especie": {
+      "type": "string"
+    },
+    "Patas": {
+      "type": "integer"
+    },
+    "Clasificacion": {
+      "type": "string"
+    }
+  }
+}
